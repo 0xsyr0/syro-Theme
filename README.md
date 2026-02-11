@@ -4,9 +4,9 @@
 
   A dark-themed minimalistic static site for cybersecurity professionals, built for GitHub Pages.
 
-  [![CI](https://img.shields.io/github/actions/workflow/status0xsyr0/syro-Theme/ci.yml?logo=github)][ci]&nbsp;
-  [![Codacy Badge](https://img.shields.io/codacy/grade/4e556876a3c54d5e8f2d2857c4f43894?logo=codacy)][codacy]&nbsp;
-  [![GitHub license](https://img.shields.io/github/license/0xsyr0/syro-Theme?color=goldenrod)][license]&nbsp;
+  ![CI](https://img.shields.io/github/actions/workflow/status/0xsyr0/syro-Theme/ci.yml?logo=github)
+  ![Codacy Badge](https://img.shields.io/codacy/grade/4e556876a3c54d5e8f2d2857c4f43894?logo=codacy)
+  ![GitHub license](https://img.shields.io/github/license/0xsyr0/syro-Theme?color=goldenrod)
 
   ![Preview](/images/theme.png)]
 
