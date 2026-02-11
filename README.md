@@ -1,6 +1,16 @@
-# syro - Personal Blog & Portfolio
+<div align="center">
 
-A dark-themed minimalistic static site for cybersecurity professionals, built for GitHub Pages.
+  # syro Theme
+
+  A dark-themed minimalistic static site for cybersecurity professionals, built for GitHub Pages.
+
+  [![CI](https://img.shields.io/github/actions/workflow/status0xsyr0/syro-Theme/ci.yml?logo=github)][ci]&nbsp;
+  [![Codacy Badge](https://img.shields.io/codacy/grade/4e556876a3c54d5e8f2d2857c4f43894?logo=codacy)][codacy]&nbsp;
+  [![GitHub license](https://img.shields.io/github/license/0xsyr0/syro-Theme?color=goldenrod)][license]&nbsp;
+
+  ![Preview](/images/theme.png)]
+
+</div>
 
 ## Features
 
